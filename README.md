@@ -2,7 +2,7 @@
 <h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+turn+designs+into+code+✨;Frontend+Engineer+%7C+React+Dev;Bringing+life+to+web+with+animation+%F0%9F%8C%9F" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Focused+on+performance%2C+accessibility+%26+user+delight+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
