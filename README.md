@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Sindhu</h1>
 <h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=Clean+Code+%7C+Smooth+UI+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
+
+<div align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&pause=1000&width=435&lines=Turning+Ideas+into+Full-Stack+solutions;Exploring+the+z-axis+with+Three.js;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+</div>
 
 
 
