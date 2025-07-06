@@ -1,22 +1,71 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Sindhu</h1>
-<h3 align="center">Crafting immersive web experiences with code & creativity ⚡</h3>
+<h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
 
-- 🔭 I’m currently working on **MovieMatrix**
-
-- 🌱 I’m currently learning **Three.js, Next.js, Serverless functions**
-
-- 👨‍💻 All of my projects are available at [https://divyanshu-sindhu.forgedinsyntax.club/](https://divyanshu-sindhu.forgedinsyntax.club/)
-
-- 💬 Ask me about **Frontend, UI/UX, animations, building custom portfolios**
-
-- 📫 How to reach me **divyanshu.sindhu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/divyanshu-sindhu-32b71632b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu-sindhu-32b71632b" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=I+turn+designs+into+code+✨;Frontend+Engineer+%7C+React+Dev;Bringing+life+to+web+with+animation+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshusindhu09&show_icons=true&theme=dark&locale=en&layout=compact" alt="divyanshusindhu09" /></p>
+### 🚀 About Me
+- 🔭 I’m currently building **AI-powered MERN apps** and designing stunning portfolios.
+- 🌱 Learning advanced React ecosystem: `Next.js`, `Three.js`, `Motion`, `Serverless`.
+- ⚡ I love mixing **design with code** — turning ideas into immersive web experiences.
+- 🎯 Mission: Build UIs that make people stop scrolling.
+- 📫 Contact me: `divyanshusindhu09@gmail.com`
+
+---
+
+### 🛠️ Tech Stack
+**Languages & Tools:**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat&logo=framer)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
+---
+
+### 📂 Projects That Define Me
+| Project | Description |
+|--------|-------------|
+| 🕶️ [RayBan Clone](https://divyanshu-sindhu09.vercel.app/) | Custom hover reveals, brand-level scroll UX |
+| 🌅 [Sundown Studio Clone](link) | Full-page animated transitions & layout |
+| 🎬 [CineVerse](link) | TMDb API movie explorer with trailer popups & responsive cards |
+
+---
+
+### 🔥 My Portfolio
+> Check out my full visual portfolio here:  
+🌐 **[divyanshu-sindhu09.vercel.app](https://divyanshu-sindhu09.vercel.app/)**
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-sindhu09&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-sindhu09&theme=radical" height="180"/>
+</p>
+
+---
+
+### ✨ Quote I Live By
+> *"Design isn't just what it looks like — it's how it works."* — Steve Jobs
+
+---
+
+### 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyanshu-sindhu-32b71632b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://divyanshu-sindhu09.vercel.app/)
+[![Mail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:divyanshusindhu09@gmail.com)
+
+---
+
+<!-- Don't forget to star this profile 😉 -->
