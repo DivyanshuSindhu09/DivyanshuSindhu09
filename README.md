@@ -2,7 +2,7 @@
 <h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=Clean+Code,+Smooth+UI+💻" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&lines=Clean+Code+%7C+Smooth+UI+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,6 +15,34 @@
 - 📫 Contact me: `divyanshusindhu09@gmail.com`
 
 ---
+<div align='center'>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Kotlin" width="65" height="65" />
+      <br>Java Script
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="Python" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>Redux Toolkit
+    </td>
+       <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>Python
+    </td>
+       <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    
+    
+  </tr>
+</table>
+</div>
 
 ### 🛠️ Tech Stack
 **Languages & Tools:**
@@ -36,11 +64,20 @@
 ### 📂 Projects That Define Me
 | Project | Description |
 |--------|-------------|
-| 🕶️ [RayBan Clone](https://divyanshu-sindhu09.vercel.app/) | Custom hover reveals, brand-level scroll UX |
-| 🌅 [Sundown Studio Clone](link) | Full-page animated transitions & layout |
-| 🎬 [CineVerse](link) | TMDb API movie explorer with trailer popups & responsive cards |
+| 🕶️ [RayBan Landing Page](https://divyanshu-sindhu09.vercel.app/) | Custom hover reveals, brand-level  UX |
+| 🎬 [MovieMatrix](link) | TMDb API movie explorer with trailer popups & responsive cards |
 
 ---
+
+##  GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyanshusindhu09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+    
+  </a>
+</p>
+
 
 ### 🔥 My Portfolio
 > Check out my full visual portfolio here:  
@@ -48,11 +85,8 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyanshu-sindhu09&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu-sindhu09&theme=radical" height="180"/>
-</p>
+
+
 
 ---
 
