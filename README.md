@@ -82,7 +82,7 @@
 | Project | Description |
 |--------|-------------|
 | 🕶️ [RayBan Landing Page](https://divyanshu-sindhu09.vercel.app/) | Custom hover reveals, brand-level  UX |
-| 🎬 [MovieMatrix](link) | TMDb API movie explorer with trailer popups & responsive cards |
+| 🎬 [MovieMatrix](https://github.com/DivyanshuSindhu09/React-Mega-Project) | TMDb API movie explorer with trailer popups & responsive cards |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
