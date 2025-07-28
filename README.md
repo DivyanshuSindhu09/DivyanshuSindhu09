@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently building **AI-powered MERN apps** and designing stunning portfolios.
-- 🌱 Learning advanced React ecosystem: `Next.js`, `Three.js`, `Motion`
+- 🌱 Learning advanced React ecosystem: `Next.js`, `Three.js`, `Motion`, `GSAP`
 - ⚡ I love mixing **design with code** — turning ideas into immersive web experiences.
 - 🎯 Mission: Build UIs that make people stop scrolling.
 - 📫 Contact me: `divyanshusindhu09@gmail.com`
