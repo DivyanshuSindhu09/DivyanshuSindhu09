@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,tailwind,nodejs,bun,mongodb,express,postman,python,git,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nextjs,tailwind,nodejs,bun,mongodb,express,postman,python,git,github,figma,vscode" />
   </a>
 </p>
 
