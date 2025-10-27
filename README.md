@@ -44,7 +44,7 @@
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=DivyanshuSindhu09-ed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/username=divyanshusindhu09-ed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
   <p align="center">
   <a href="https://github.com/divyanshusindhu09">
