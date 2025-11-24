@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Divyanshu Sindhu</h1>
+<h1 align="center">Hi, I'm Divyanshu Sindhu</h1>
 <h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
 
 
