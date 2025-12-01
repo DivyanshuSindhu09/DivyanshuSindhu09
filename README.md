@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divyanshu Sindhu</h1>
-<h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover</h3>
+<h3 align="center">Creative Frontend Developer | MERN Stack Enthusiast | UI/UX Lover </h3>
 
 
 <div align='center'>
@@ -12,7 +12,7 @@
 ### About Me
 -  I’m currently building **AI-powered MERN apps** and designing stunning portfolios.
 -  Learning advanced React ecosystem: `Next.js`, `Three.js`, `Motion`, `GSAP`
--  I love mixing **design with code** — turning ideas into immersive web experiences.
+-  I love mixing **design with code** — turning ideas into immersive experiences.
 -  Mission: Build UIs that make people stop scrolling.
 -  Contact me: `divyanshusindhu09@gmail.com`
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
