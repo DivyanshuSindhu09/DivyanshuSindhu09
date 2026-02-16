@@ -22,7 +22,7 @@
 
 <br/>
 
-<!-- Skills & Tools Section -->
+<!-- Skills &   Tools Section -->
 <details open>
 <summary><b>Skills & Tools</b></summary>
 <br>
