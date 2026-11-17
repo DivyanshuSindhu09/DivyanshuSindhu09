@@ -16,7 +16,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divyanshu_sindhu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshusindhu09/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyanshusindhu.live/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://divyanshusindhu.live)
 
 </div>
 
@@ -27,7 +27,6 @@
 <summary><b>Skills & Tools</b></summary>
 <br>
 
-<!-- GenAI & Agentic AI SOOON (unchanged) -->
 <!-- Frontend & Creative Web -->
 **Frontend & Creative Tech**
 <br/>
@@ -53,19 +52,24 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Better Auth](https://img.shields.io/badge/Better_Auth-18181B?style=for-the-badge&logo=betterauth&logoColor=white)&nbsp;
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)&nbsp;
 ![Inngest](https://img.shields.io/badge/Inngest-6366F1?style=for-the-badge&logo=serverless&logoColor=white)&nbsp;
 
 <br/><br/>
 
-<!-- AI, Vision & Core -->
-**AI, Vision & Core**
+<!-- AI, RAG & Core -->
+**AI, RAG & Core**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)&nbsp;
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)&nbsp;
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)&nbsp;
 ![Gemini API](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java_(DSA)-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 <br/><br/>
@@ -92,15 +96,6 @@
 <div align="center">
   <a href="https://github.com/DivyanshuSindhu09">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyanshuSindhu09&theme=tokyonight" alt="GitHub Profile Summary"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/DivyanshuSindhu09">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DivyanshuSindhu09&theme=tokyonight" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DivyanshuSindhu09&theme=tokyonight" alt="Most Used Languages"/>
   </a>
 </div>
 
@@ -135,71 +130,6 @@
   <img src="https://komarev.com/ghpvc/?username=DivyanshuSindhu09&label=Visitors&color=181717&style=flat" alt="Profile Visitors" />
 </p>
 
-<!-- 💖 Contact -->
 ### You can reach me at: **<divyanshu.sindhu@gmail.com>**
 
 
-<!-- ### 🛠️**Skills & Frameworks:**
-
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,nextjs,tailwind,nodejs,bun,mongodb,express,postman,python,git,github,figma,vscode,ts,postgres,java,nest," />
-  </a>
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-###  Projects That Define Me
-| Project | Description |
-|--------|-------------|
-|  [ForgedInSyntax](https://new.forgedinsyntax.club) | 	Official site for our coding club. Built with React & Tailwind, it highlights upcoming events, showcases club achievements, and manages member profiles. Designed for clarity, speed, and engagement. |
-|  [MovieMatrix](https://github.com/DivyanshuSindhu09/React-Mega-Project) | TMDb API movie explorer with trailer popups & responsive cards |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-##  GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyanshusindhu09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
-![](https://github-profile-trophy.vercel.app/username=divyanshusindhu09-ed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-  <p align="center">
-  <a href="https://github.com/divyanshusindhu09">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshusindhu09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshusindhu09&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
-
-    
-  </a>
-</p>
-
-
-###  My Portfolio
-> Check out my full visual portfolio here:  
-🌐 **[divyanshu-sindhu09.vercel.app](https://divyanshu-sindhu09.vercel.app/)**
-> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
-
-###  Quote I Live By
-> *"Design isn't just what it looks like — it's how it works."* — Steve Jobs
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-###  Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyanshu-sindhu-32b71632b/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://divyanshu-sindhu09.vercel.app/)
-[![Mail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:divyanshusindhu09@gmail.com)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Don't forget to star this profile 😉 -->
