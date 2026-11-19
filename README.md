@@ -61,7 +61,7 @@
 
 <br/><br/>
 
-<!-- AI, RAG & Core -->
+<!-- AI, RAG, Gen AI -->
 **AI, RAG & Core**
 <br/>
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
@@ -131,5 +131,6 @@
 </p>
 
 ### You can reach me at: **<divyanshu.sindhu@gmail.com>**
+
 
 
